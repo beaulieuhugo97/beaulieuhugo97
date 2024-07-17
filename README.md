@@ -6,7 +6,7 @@ I'm Hugo, a passionate fullstack web developer.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
 [![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97)](https://github.com/anuraghazra/github-readme-stats)
