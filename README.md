@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Hugo, a passionate fullstack web developer.
+
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+
+## 📈 GitHub Stats
+[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe)](https://github.com/john-doe/github-readme-stats)
 
 <!--
 **beaulieuhugo97/beaulieuhugo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
