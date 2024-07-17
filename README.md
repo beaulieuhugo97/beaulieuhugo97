@@ -2,6 +2,12 @@
 
 I'm Hugo, a passionate fullstack web developer.
 
+## ℹ️ About me
+- 🔭 I’m currently working on SmallCloud, my company and side project.
+- 🌱 I’m currently learning pentesting with HackTheBox.
+- 📫 How to reach me: hugo@hugo.quebec
+- ⚡ Fun fact: ...
+
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
@@ -10,18 +16,3 @@ I'm Hugo, a passionate fullstack web developer.
 
 ## 📈 GitHub Stats
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97&show_icons=true&theme=dracula)
-
-<!--
-**beaulieuhugo97/beaulieuhugo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
