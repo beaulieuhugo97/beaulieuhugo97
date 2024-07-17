@@ -6,7 +6,7 @@ I'm Hugo, a passionate fullstack web developer.
 - 🔭 I’m currently working on SmallCloud, my company and side project.
 - 🌱 I’m currently learning pentesting with HackTheBox.
 - 📫 How to reach me: hugo@hugo.quebec
-- ⚡ Fun fact: ...
+- 🐧 Linux is the best OS
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
