@@ -9,7 +9,7 @@ I'm Hugo, a passionate fullstack web developer.
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
-[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97)](https://github.com/anuraghazra/github-readme-stats)
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97&show_icons=true&theme=dracula)
 
 <!--
 **beaulieuhugo97/beaulieuhugo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
