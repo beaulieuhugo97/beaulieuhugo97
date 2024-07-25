@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hugo, a passionate fullstack web developer.
+I'm `Hugo`, a passionate fullstack web developer.
 
 ## ℹ️ About me
 - 🔭 I’m currently working on [SmallCloud](https://smallcloud.ca/), my company and side project.
