@@ -3,8 +3,8 @@
 I'm Hugo, a passionate fullstack web developer.
 
 ## ℹ️ About me
-- 🔭 I’m currently working on SmallCloud, my company and side project.
-- 🌱 I’m currently learning pentesting with HackTheBox.
+- 🔭 I’m currently working on [SmallCloud](https://smallcloud.ca/), my company and side project.
+- 🌱 I’m currently learning pentesting by writing [HackTheBox walkthroughs](https://github.com/beaulieuhugo97/htb-walkthrough).
 - 📫 How to reach me: hugo@hugo.quebec
 - 🐧 Linux is the best OS
 
