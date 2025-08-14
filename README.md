@@ -4,8 +4,9 @@ My name is Hugo. I graduated with a technical degree in networking (security spe
 
 ### 🌐 Find out more about me on [my personal website](https://hugo.quebec/)
 
+
 ## 👤 About
-I am currently:
+I'm currently:
 - 🛠️ Working at [☁ SmallCloud](https://smallcloud.ca/), my company and side project.
 - 🛡️ Learning pentesting with [HackTheBox](https://app.hackthebox.com/users/670319).
 
