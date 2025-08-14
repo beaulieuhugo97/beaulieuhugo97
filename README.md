@@ -3,7 +3,7 @@
 My name is Hugo. I graduated with a technical degree in networking (security specialization), I have 4 years of programming experience as a fullstack web developer in several startups. Passionate about open-source and cybersecurity, I love spending time on HackTheBox and I'm on my 4th CTF at Hackfest.
 
 ## 👤 About
-- ☁️ Working at [SmallCloud](https://smallcloud.ca/), my company and side project.
+- 🛠️ Working at [☁️ SmallCloud](https://smallcloud.ca/), my company and side project.
 - 🛡️ Learning pentesting with [HackTheBox](https://app.hackthebox.com/users/670319).
 - 🌐 Find out more about me on [my personal website](https://hugo.quebec/)
 
