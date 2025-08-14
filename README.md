@@ -2,13 +2,12 @@
 
 I'm `Hugo`, a passionate fullstack web developer.
 
-## ℹ️ About me
-- 🔭 I’m currently working on [SmallCloud](https://smallcloud.ca/), my company and side project.
-- 🌱 I’m currently learning pentesting by writing [HackTheBox walkthroughs](https://github.com/beaulieuhugo97/htb-walkthrough).
-- 📫 How to reach me: hugo@hugo.quebec
-- 🐧 Currently in love with [Fedora](https://fedoraproject.org/)
+## ⚙️ About me
+- ☁️ I’m currently working on [SmallCloud](https://smallcloud.ca/), my company and side project.
+- 🛡️ I’m currently learning pentesting by writing [HackTheBox walkthroughs](https://github.com/beaulieuhugo97/htb-walkthrough).
+- 📬 How to reach me: hugo@hugo.quebec
 
-## 🔧 Technologies & Tools
+## ⚙️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
