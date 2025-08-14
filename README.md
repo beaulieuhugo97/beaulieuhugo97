@@ -2,8 +2,6 @@
 
 My name is Hugo. I graduated with a technical degree in networking (security specialization), I have 4 years of programming experience as a fullstack web developer in several startups. Passionate about open-source and cybersecurity, I love spending time on HackTheBox and I'm on my 4th CTF at Hackfest.
 
-### 🌐 Find out more about me on [my personal website](https://hugo.quebec/)
-
 
 ## 👤 About
 I'm currently:
@@ -18,3 +16,5 @@ I'm currently:
 
 ## 📈 Stats
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97&show_icons=true&theme=dracula)
+
+### 🌐 Find out more about me on [my personal website](https://hugo.quebec/)
