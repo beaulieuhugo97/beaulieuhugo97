@@ -1,20 +1,13 @@
 # Hi there 👋
 
-My name is Hugo. I graduated with a technical degree in networking (security specialization), I have 4 years of programming experience as a fullstack web developer in several startups. Passionate about open-source and cybersecurity, I love spending time on HackTheBox and I'm on my 4th CTF at Hackfest.
+Bienvenue sur mon GitHub !
 
+Je suis Hugo, un passionné d'informatique depuis l'enfance et un amateur de sécurité (j'en suis à mon 4ième CTF au Hackfest !).
 
-## 👤 About
-I'm currently:
-- 🛠️ Working at [☁ SmallCloud](https://smallcloud.ca/), my company and side project.
-- 🛡️ Learning pentesting with [HackTheBox](https://app.hackthebox.com/users/670319).
+Je suis diplômé d'une technique en gestion de réseaux (spécialisation sécurité) et je passe la majorité de mon temps sur HackTheBox.
 
-## ⚙️ Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+J'ai commencé mon parcours dans le monde de l'informatique comme simple Technicien avant d'atterrir comme Administrateur de Systèmes pour finalement devenir Développeur Web.
 
-## 📈 Stats
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=beaulieuhugo97&show_icons=true&theme=dracula)
+Mon parcours atypique signifie que je suis à l'aise avec toutes les technologies imaginables. Que ce soit Linux, les multiples stacks de développement web d'aujourd'hui, le cloud, les pipelines, la virtualization/containerization ou bien encore Windows/Active Directory, j'ai tout vu !
 
-### 🌐 Find out more about me on [my personal website](https://hugo.quebec/)
+J'ai également travaillé dans plusieurs startup où il était nécessaire de porter plusieurs chapeaux.
