@@ -1,6 +1,4 @@
-# Hi there 👋
-
-Bienvenue sur mon GitHub !
+# Bienvenue sur mon GitHub ! 👋
 
 Je suis Hugo, un passionné d'informatique depuis l'enfance et un amateur de sécurité (j'en suis à mon 4ième CTF au Hackfest !).
 
