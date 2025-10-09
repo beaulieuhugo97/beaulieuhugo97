@@ -8,4 +8,4 @@ J'ai commencé mon parcours dans le monde de l'informatique comme simple Technic
 
 Mon parcours atypique signifie que je suis à l'aise avec toutes les technologies imaginables. Que ce soit Linux, les multiples stacks de développement web d'aujourd'hui, le cloud, les pipelines, la virtualization/containerization ou bien encore Windows/Active Directory, j'ai tout vu !
 
-J'ai également travaillé dans plusieurs startup où il était nécessaire de porter plusieurs chapeaux.
+J'ai également travaillé dans plusieurs startup où il était nécessaire de porter une multitude de chapeaux.
